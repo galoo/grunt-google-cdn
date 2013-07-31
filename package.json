@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "bower": "~0.9.2",
-    "google-cdn": "git://github.com/urish/google-cdn.git#2256410c7f306b09008923c2872a3cb5e8225603"
+    "google-cdn": "~0.1.4"
   },
   "repository": {
     "type": "git",
