@@ -16,6 +16,7 @@ module.exports = function (grunt) {
     // `bower_components`
     var bowerDirBits = bowerConfig.directory.split(path.sep);
     bowerDirBits.shift();
+    bowerDirBits.shift();
     var componentsPath = bowerDirBits.join(path.sep);
 
     grunt.log
